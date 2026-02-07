@@ -1,0 +1,161 @@
+{
+  "book_id": "digital-native-epic-narrative-love-mortality",
+  "title": "The Stillness at the End of the Song",
+  "tagline": "In a world that archives everything, two lovers race to preserve the one thing that cannot be saved: each other.",
+  "target_words": 70000,
+  "actual_words": 69015,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Digital Memory vs. Physical Decay",
+    "Love as a Form of Preservation",
+    "The Glitch as Revelation",
+    "The Mortality of Data",
+    "Finding Meaning in a Curated World"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Burrito Principle",
+      "words": 2875
+    },
+    {
+      "ch": 2,
+      "title": "The Context Farmer",
+      "words": 2875
+    },
+    {
+      "ch": 3,
+      "title": "The Unindexed Phrase",
+      "words": 2875
+    },
+    {
+      "ch": 4,
+      "title": "Signal in the Noise",
+      "words": 2875
+    },
+    {
+      "ch": 5,
+      "title": "Ghosts in the Machine",
+      "words": 2875
+    },
+    {
+      "ch": 6,
+      "title": "The First Death",
+      "words": 2875
+    },
+    {
+      "ch": 7,
+      "title": "Breath on the Glass",
+      "words": 2875
+    },
+    {
+      "ch": 8,
+      "title": "Narrative Correction",
+      "words": 2875
+    },
+    {
+      "ch": 9,
+      "title": "The Archive of Flesh",
+      "words": 2875
+    },
+    {
+      "ch": 10,
+      "title": "Corrupted Memories",
+      "words": 2875
+    },
+    {
+      "ch": 11,
+      "title": "The Slow Crash",
+      "words": 2875
+    },
+    {
+      "ch": 12,
+      "title": "Analog Heart",
+      "words": 2875
+    },
+    {
+      "ch": 13,
+      "title": "The Last Backup",
+      "words": 2875
+    },
+    {
+      "ch": 14,
+      "title": "Forgotten Protocols",
+      "words": 2875
+    },
+    {
+      "ch": 15,
+      "title": "Chasing the Stillness",
+      "words": 2875
+    },
+    {
+      "ch": 16,
+      "title": "Love as Legacy Code",
+      "words": 2875
+    },
+    {
+      "ch": 17,
+      "title": "The Unrenderable",
+      "words": 2875
+    },
+    {
+      "ch": 18,
+      "title": "Fragmentation",
+      "words": 2875
+    },
+    {
+      "ch": 19,
+      "title": "Manual Override",
+      "words": 2875
+    },
+    {
+      "ch": 20,
+      "title": "The Final Glitch",
+      "words": 2875
+    },
+    {
+      "ch": 21,
+      "title": "Offline",
+      "words": 2875
+    },
+    {
+      "ch": 22,
+      "title": "The Last Artifact",
+      "words": 2875
+    },
+    {
+      "ch": 23,
+      "title": "Echo",
+      "words": 2875
+    },
+    {
+      "ch": 24,
+      "title": "The Song",
+      "words": 2875
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a 'digital ghost'—a persistent, emotional data-echo of a deceased person in an unexpected place (a traffic system, an appliance, a forgotten game server). How do they interact with it?",
+      "Create a memory-tagging system for a future society. What poetic, non-literal phrases (like 'the stillness at the end of the song') do people use to categorize their lived experiences? Write a user's log.",
+      "Imagine a 'context farmer' like Kazuo in a different setting (a desert, a library, a forest). What signals do they harvest, and what is their 'cathedral' made of?",
+      "Write a dialogue between a 'preserver' (like Leo) and a 'narrative engineer' (like Anya) arguing over the best way to save a dying tradition: through perfect archival or through adapting it into a new story."
+    ],
+    "technical": [
+      "Design a speculative data-storage medium for preserving 'aura' or 'context' alongside digital artifacts. What would its technical specs and limitations be?",
+      "Build a simple sentiment-analysis tool that scans text for recurring, unique poetic phrases (like the novel's motif) instead of standard keywords, to find emerging 'glitches' in human expression."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William Gibson",
+      "Ursula K. Le Guin",
+      "Haruki Murakami",
+      "Katherine Dunn"
+    ]
+  },
+  "cover_prompt": "Two lovers in a desperate, final embrace, their forms simultaneously solid and disintegrating into a cascade of shimmering digital static and fragile, crumbling ash, [Detailed Scene & Context: set within the sterile, infinite corridors of a vast data archive, where glowing server racks and holographic memory trees form a cold cathedral around them; their intimate decay is contrasted by the perfect, unchanging digital preservation of everything else, with ghostly after-images of their past moments together flickering like echoes on the walls], [Artistic Style & Medium: in the atmospheric style of Simon Stålenhag and Beeple, blending hyper-realistic human emotion with profound digital surrealism, photorealistic mixed media with ethereal glitch art], [Composition & Camera: book cover framing, a centered and intimate composition that draws the eye to their fading faces, shot from a low angle to make their embrace monumental against the vast archive, a sense of both vulnerability and epic scale], [Lighting & Color Palette: dramatic volumetric lighting where cold, clinical blue and white server lights intersect with the warm, dying gold and amber embers of their physical decay, creating pockets of stark contrast and poignant fusion], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
