@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The first time I died, I was arguing about a burrito.
@@ -141,6 +143,8 @@ It was not an end. It was a *cessation*. A switching off. The lights didn’t go
 The last thing I knew was not a thought, but a sensation: the warmth of the stone, and the exact distance to Anya’s fingertips, measured in an eternity of air.
 
 ---
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -293,6 +297,8 @@ She walked to the door we’d entered, then looked back at me, the emergency lig
 She stepped out into the drain tunnel. I took one last look at Kazuo, a small, still figure in the cathedral of flickering ghosts. I clutched the warm stone and the cold drone to my chest, and followed Anya into the dark.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
