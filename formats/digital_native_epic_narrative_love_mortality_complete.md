@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The first time I died, I was arguing about a burrito.
+Elias died for the first time at 4:37 PM on a Tuesday. His neural lace captured the final seventeen seconds—the shuddering gasp, the synaptic cascade, the glorious, terrifying severance—and packaged it for his followers as a limited-edition experience. They called it a masterpiece. He called it a problem.
+
+
 
 “It’s not about the guac, Leo, it’s about the principle,” Anya said, her voice a low, furious thrum in my ear-bone. The city streamed past our pod window, a liquid blur of neon kanji and deep-sea glow of shop signs. “They charged me for ‘extra ambiance.’ What does that even *mean*? It’s a protein-synth counter in a repurposed sewage tunnel.”
 
